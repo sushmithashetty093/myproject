@@ -174,4 +174,5 @@
       of your accepting any such warranty or additional liability.
 
 Testing the git connection 
+Experimention on automation
 	END OF TERMS AND CONDITIONS
