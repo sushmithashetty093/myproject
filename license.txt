@@ -173,6 +173,6 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-Testing the git connection 
+Testing the git connectioniii 
 Experimention on automation
 	END OF TERMS AND CONDITIONS
